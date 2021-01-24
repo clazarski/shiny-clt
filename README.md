@@ -6,7 +6,7 @@ This app is an exploration of the central limit theorem. Task 1 asks students to
 
 
 ## Demo
-You can test this app by going to https://mathisawesome.shinyapps.io/clt/
+You can test this app by going to https://mathisawesome.shinyapps.io/central-limit-theorem/
 
 ## Credits
 Concept and materials eveloped by Craig Lazarski. Programming support by Jeffery Painter
